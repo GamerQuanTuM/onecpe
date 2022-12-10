@@ -1,0 +1,18 @@
+.buttons {
+  background-color: #7876f8;
+  border: none;
+  color: white;
+  padding: 5px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 25px 20px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.scrollELement::-webkit-scrollbar{
+  display: none;
+}
+

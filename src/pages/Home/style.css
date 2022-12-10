@@ -1,0 +1,17 @@
+.top-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.button {
+  background-color: #0a5ac9;
+  border: none;
+  color: white;
+  padding: 5px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 25px 20px;
+  cursor: pointer;
+}
