@@ -1,6 +1,6 @@
 import "./style.css";
 import React, { useState } from "react";
-import ReactScrollableFeed from "react-scrollable-feed";
+// import ReactScrollableFeed from "react-scrollable-feed";
 import Carousel from "react-bootstrap/Carousel";
 import firstSlide from "../../assets/images/firstSlideUpdated.png";
 import secondSlide from "../../assets/images/secondSlideUpdated.png";
@@ -23,7 +23,7 @@ function About() {
             height: "100vh",
           }}
         >
-          <ReactScrollableFeed forceScroll={true}>
+          {/* <ReactScrollableFeed forceScroll={true}>
             <div style={{ height: "100%" }}>
               <h2
                 style={{
@@ -59,7 +59,7 @@ function About() {
                 </p>
               </h2>
             </div>
-          </ReactScrollableFeed>
+          </ReactScrollableFeed> */}
         </div>
         <Carousel
           activeIndex={index}
