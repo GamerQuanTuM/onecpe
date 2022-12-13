@@ -76,7 +76,7 @@ const Footer = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link">
+              <a className="nav-link" href={'/'}>
                 <div style={{ display: "flex" }}>
                   <AiFillFacebook style={{ marginTop: "5px" }} />
                   <p style={{ marginLeft: "10px" }}>Facebook</p>
