@@ -4,7 +4,7 @@ import "./App.css";
 
 // components
 
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 // pages
 import Home from "./pages/Home";
 import Terms from "./pages/Terms";

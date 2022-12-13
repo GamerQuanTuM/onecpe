@@ -11,7 +11,7 @@ function PrivacyAndPolicy() {
         policy regarding the collection, use, disclosure and transfer of your
         information by Bound Parivar Technology Private Limited or any of its
         affiliate(s) (“we” or “us” or “our”), which operates the website
-        <a href="#" target="_blank">
+        <a href="/" target="_blank">
           {"\n"}http://www.onecpe.in/ {"\n"}
         </a>
         ("Site"), “OnecPe App” (the “App”) available on Google Play Store and
